@@ -1,12 +1,12 @@
 # Site settings
-title: "Paper Jekyll Theme"
+title: "GuiTuAcc Project"
 description: > 
-  Write a description of your website here.
+  Unconstrained & Encrypted Network! Free & Open Source Forever! 
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
-twitter_username: _HairForceOne
-github_username: mkchoi212
+author: Turmi&AlphaRabbit
+email: main@gtacc.me
+# twitter_username: 
+github_username: zjl88858
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://gtacc.me" # the base hostname & protocol for your site
